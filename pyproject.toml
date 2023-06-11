@@ -11,6 +11,7 @@ python = "^3.9"
 boto3 = "^1.26.143"
 jedi = "^0.18.2"
 virtualenv = "^20.23.0"
+pyiceberg = "^0.3.0"
 
 
 [build-system]
