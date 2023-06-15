@@ -14,6 +14,9 @@ virtualenv = "^20.23.0"
 pyiceberg = "^0.3.0"
 black = "^23.3.0"
 isort = "^5.12.0"
+flake8 = "^6.0.0"
+pre-commit = "^3.3.2"
+tox = "<4"
 
 
 [build-system]
